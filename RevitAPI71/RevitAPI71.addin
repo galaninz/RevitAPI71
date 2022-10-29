@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPI71.dll"</Assembly>
+		<AddInId>130D5A8D-7EDC-486C-A5DF-5925FFD3875A</AddInId>
+		<FullClassName>RevitAPI71.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Приложение для Revit 7.1</Text>
+	</AddIn>
+</RevitAddIns>
